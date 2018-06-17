@@ -1,0 +1,12 @@
+Average available bandwidth with 7 guests: 21.428571428571427
+Average available bandwidth with 4 guests: 37.5
+Average available bandwidth with 1 guests: 150.0
+Average available bandwidth with 10 guests: 15.0
+Average available bandwidth with 3 guests: 50.0
+Average available bandwidth with 6 guests: 25.0
+Average available bandwidth with 0 guests: 0.0
+Average available bandwidth with 5 guests: 30.0
+Average available bandwidth with 8 guests: 18.75
+Average available bandwidth with 9 guests: 16.666666666666668
+Average available bandwidth with 2 guests: 75.0
+Average total bandwidth: 39.94
